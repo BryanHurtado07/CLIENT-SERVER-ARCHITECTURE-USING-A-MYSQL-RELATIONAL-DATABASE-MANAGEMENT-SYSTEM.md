@@ -41,7 +41,7 @@ $ curl -Iv www.propitixhomes.com
 
 **The instructions below will be followed to complete the project.**
 
-* We are going to configure 2 new Linux servers in our Virtualbox
+* We are going to configure 2 new Linux servers in AWS EC2
 
 ```
 Server A - mysql server
